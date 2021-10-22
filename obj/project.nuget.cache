@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrHuwUryE0kKlOIzHWQ/dCFsgnwlxaSGNIb7fFl4TFecrRcTV9tq2GHFwdmnSNtdcXBghRcHkDNP0CyhHwiCeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adminvm.adminvm\\source\\repos\\LinqDemo\\LinqDemo\\LinqDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adminvm.adminvm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
